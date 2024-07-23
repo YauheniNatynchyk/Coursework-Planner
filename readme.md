@@ -2,6 +2,8 @@
 
 This is how you will plan and manage your coursework at MigraCode. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
 
+You can watch [this video](https://www.loom.com/share/825be2e98a5046339500449dbf86ff01) about how to create your coursework-planner board. Written instructions are provided below.
+
 ## 1. How to get set up
 
 1. Fork [this repo](https://github.com/CodeYourFuture/Coursework-Planner/) to your own GitHub
@@ -31,5 +33,3 @@ Copy issues for each week or at most for each module. The coursework content is 
 There are example project boards attached to each module, showing you ways you can use boards to manage your time, prioritise, scope, and track your work. You should use the _same project board_ all the way through the course, and add to it as you go. Learn as you go, and adapt your board as you learn.
 
 You can, and should, also add your own tickets to the board. Just remember it's a public board, so don't add anything you don't want to share with your mentors.
-
-You can watch [this video](https://www.loom.com/share/825be2e98a5046339500449dbf86ff01) about how to create your coursework-planner board.
