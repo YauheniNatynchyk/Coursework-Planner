@@ -1,19 +1,19 @@
 # Welcome to your coursework planner
 
-This is how you will plan and manage your coursework at MigraCode. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
+This is how you will plan and manage your coursework at MigraCode. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/orgs/Migracode-Barcelona/projects/5) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
 
 You can watch [this video](https://www.loom.com/share/825be2e98a5046339500449dbf86ff01) about how to create your coursework-planner board. Written instructions are provided below.
 
 ## 1. How to get set up
 
-1. Fork [this repo](https://github.com/CodeYourFuture/Coursework-Planner/) to your own GitHub
+1. Fork [this repo](https://github.com/MigraCode-Barcelona/Coursework-Planner/) to your own GitHub
 2. Turn on `issues` in the `settings`
 
 You must fork to your personal Github account.
 
 ## 2. Every module, you will add your work as issues
 
-Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are listed in the [Table of Contents](https://github.com/CodeYourFuture/Table-of-Contents).
+Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are listed in the [Table of Contents](https://github.com/MigraCode-Barcelona/Table-of-Contents).
 
 1. Go to the module repo
 2. Click on the `Issues` tab
@@ -25,7 +25,7 @@ Copy issues for each week or at most for each module. The coursework content is 
 
 ## 3. Refine your tickets and add them to your project board
 
-1. Copy the [example project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen)
+1. Copy the [example project board](https://github.com/orgs/Migracode-Barcelona/projects/5)
 2. Link your new project board to your fork of this repo
 3. Add your tickets to the project board, using the labels to help you assign the fields
 4. Make your board public in the settings, so your mentors can see it
