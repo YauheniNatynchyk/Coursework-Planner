@@ -1,13 +1,13 @@
 # Welcome to your coursework planner
 
-This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
+This is how you will plan and manage your coursework at MigraCode. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
 
 ## 1. How to get set up
 
 1. Fork [this repo](https://github.com/CodeYourFuture/Coursework-Planner/) to your own GitHub
 2. Turn on `issues` in the `settings`
 
-You must fork to your personal Github account. Forks created in the CYF org will be deleted by a bot.
+You must fork to your personal Github account.
 
 ## 2. Every module, you will add your work as issues
 
