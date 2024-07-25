@@ -4,6 +4,8 @@ This is how you will plan and manage your coursework at MigraCode. You will add 
 
 You can watch [this video](https://www.loom.com/share/825be2e98a5046339500449dbf86ff01) about how to create your coursework-planner board. Written instructions are provided below.
 
+**IMPORTANT:** Copy issues **ONLY** for the current Sprint/week. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
+
 ## 1. How to get set up
 
 1. Fork [this repo](https://github.com/MigraCode-Barcelona/Coursework-Planner/) to your own GitHub
@@ -21,7 +23,7 @@ Each module has a module repo. The coursework for each module is added as issues
 
 We are building a tool to automate this process, but for now you will have to do it manually. We all use the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
 
-Copy issues for each week or at most for each module. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
+Again, Copy issues **ONLY** for the current Sprint/week. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
 
 ## 3. Refine your tickets and add them to your project board
 
